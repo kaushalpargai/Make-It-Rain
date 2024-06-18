@@ -19,7 +19,7 @@ import com.google.android.material.snackbar.Snackbar;
 public class MainActivity extends AppCompatActivity {
     //private Button makeItRain;
     //private Button showInfo;
-    //git ki practice
+    //git ki practice change 1
     private TextView moneyValue;
     private int moneyCounter=0;
     //another layout button
